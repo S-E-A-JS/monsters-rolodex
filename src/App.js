@@ -50,7 +50,7 @@ class App extends Component {
               // console.log(this.state);
             }}
           >
-            Change name
+            Change name d
           </button>
         </header>
       </div>
